@@ -1,0 +1,47 @@
+{
+  "ins_api": {
+    "type": "cli_show",
+    "version": "1.0",
+    "sid": "eoc",
+    "outputs": {
+      "output": {
+        "input": "show version",
+        "msg": "Success",
+        "code": "200",
+        "body": {
+          "header_str": "Cisco Nexus Operating System (NX-OS) Software\nTAC support: http://www.cisco.com/tac\nDocuments: http://www.cisco.com/en/US/products/ps9372/tsd_products_support_series_home.html\nCopyright (c) 2002-2023, Cisco Systems, Inc. All rights reserved.\nThe copyrights to certain works contained herein are owned by\nother third parties and are used and distributed under license.\nSome parts of this software are covered under the GNU Public\nLicense. A copy of the license is available at\nhttp://www.gnu.org/licenses/gpl.html.\n\nNexus 9000v is a demo version of the Nexus Operating System\n",
+          "bios_ver_str": "",
+          "kickstart_ver_str": "10.3(3)",
+          "release_type": "Feature Release",
+          "nxos_ver_str": "10.3(3)",
+          "bios_cmpl_time": "",
+          "kick_file_name": "bootflash:///nxos64-cs.10.3.3.F.bin",
+          "nxos_file_name": "bootflash:///nxos64-cs.10.3.3.F.bin",
+          "kick_cmpl_time": "4/30/2023 12:00:00",
+          "nxos_cmpl_time": "4/30/2023 12:00:00",
+          "kick_tmstmp": "05/03/2023 12:18:42",
+          "nxos_tmstmp": "05/03/2023 12:18:42",
+          "chassis_id": "cisco Nexus9000 C9300v Chassis",
+          "cpu_name": "Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz",
+          "memory": 16384716,
+          "mem_type": "kB",
+          "proc_board_id": "9M82ZHV54TR",
+          "host_name": "nxos",
+          "bootflash_size": 4287040,
+          "kern_uptm_days": 0,
+          "kern_uptm_hrs": 23,
+          "kern_uptm_mins": 50,
+          "kern_uptm_secs": 15,
+          "rr_reason": "Unknown",
+          "rr_sys_ver": "",
+          "rr_service": "",
+          "plugins": "Core Plugin, Ethernet Plugin",
+          "manufacturer": "Cisco Systems, Inc.",
+          "TABLE_package_list": {
+            "ROW_package_list": {}
+          }
+        }
+      }
+    }
+  }
+}

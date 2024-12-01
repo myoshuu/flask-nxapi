@@ -1,0 +1,18 @@
+[
+  {
+      "interface": "mgmt0",
+      "ip_addr": "10.10.20.95",
+      "mtu": 1500,
+      "speed": "1000",
+      "state": "up"
+  },
+  {
+      "interface": "loopback0",
+      "state": "up"
+  },
+  {
+      "desc": "My Learning Lab Loopback",
+      "interface": "loopback30",
+      "state": "up"
+  }
+]
